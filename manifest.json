@@ -2,7 +2,7 @@
   "name": "simplePWA",
   "short_name": "SPWA",
   "description": "step by step pwa app to understand fundamentals.",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "theme_color": "#eeffee",
   "background_color": "#eeffee",
   "display": "standalone",
