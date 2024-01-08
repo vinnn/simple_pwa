@@ -2,17 +2,22 @@
 
 ### 1. simple html + css
 
-local + desktop =>
-online + desktop =>
-online + mobile => 
+/*:
+* local + desktop => OK
+* online + desktop => OK
+* online + mobile => OK
 
-offline + desktop =>
-offline + mobile =>
+* offline + desktop => OK (blank)
+* offline + mobile => ~OK (should be blank)
+*/
 
+### 2. add manifest + sw
 
-### 2. 
-/* :
-- test
-- test
+/*:
+* local + desktop => OK
+* online + desktop => OK
+* online + mobile => OK
 
+* offline + desktop => OK (blank)
+* offline + mobile => ~OK (should be blank)
 */
